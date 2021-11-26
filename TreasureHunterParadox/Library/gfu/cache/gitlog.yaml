@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-11-27T00:14:34.847+02:00
+  initializedAtString: 2021-11-26T21:01:02.438+02:00
+  log:
+  - commitID: cc5413d1896720f14d514cad9699af41545d1182
+    mergeA: 
+    mergeB: 
+    authorName: Mohamed Morsy
+    authorEmail: 57285056+MohamedMorsy26@users.noreply.github.com
+    commitEmail: 57285056+MohamedMorsy26@users.noreply.github.com
+    commitName: Mohamed Morsy
+    summary: Initial commit
+    description: 
+    timeString: 2021-11-26T18:47:54.000+02:00
+    commitTimeString: 2021-11-26T18:47:54.000+02:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
