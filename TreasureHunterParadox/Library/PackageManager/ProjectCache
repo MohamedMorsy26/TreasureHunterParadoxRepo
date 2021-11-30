@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637735421263619977
-    m_Hash: 3514944958
+      ticks: 637738670524062316
+    m_Hash: 3531869884
   m_LockFileStatus:
     m_FilePath: C:/Users/xenom/Documents/UNITYYYYYYYYYY/UnityGucProjectTwo/TreasureHunterParadoxRepo/TreasureHunterParadox/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637735421642487075
-    m_Hash: 3518015605
+      ticks: 637738670524082263
+    m_Hash: 51398154
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:

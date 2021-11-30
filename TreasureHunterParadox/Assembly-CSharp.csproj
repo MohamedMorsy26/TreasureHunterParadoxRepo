@@ -61,6 +61,7 @@
     <Compile Include="Assets\Packages\AN Interactive Physical Door Pack\Scripts\AN_DoorKey.cs" />
     <Compile Include="Assets\Packages\AurynSky\Dungeon Pack\Scripts\TrapDoorDemo.cs" />
     <Compile Include="Assets\Packages\AN Interactive Physical Door Pack\Scripts\AN_DoorScript.cs" />
+    <Compile Include="Assets\GameManagerScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Packages\AurynSky\Dungeon Pack\READ ME.txt" />
