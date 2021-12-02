@@ -13,9 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-11-30T23:44:22.608+02:00
+  lastUpdatedAtString: 2021-12-02T02:32:09.870+02:00
   initializedAtString: 2021-11-30T20:49:46.234+02:00
-  localBranches: []
+  localBranches:
+  - name: main
+    tracking: origin/main
   remoteBranches:
   - name: origin/main
     tracking: '[None]'
@@ -28,8 +30,14 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys: []
-    values: []
+    keys:
+    - main
+    values:
+    - name: main
+      remote:
+        name: origin
+        url: https://github.com/MohamedMorsy26/TreasureHunterParadoxRepo.git
+      trackingBranch: main
   remoteConfigBranches:
     keys:
     - origin
