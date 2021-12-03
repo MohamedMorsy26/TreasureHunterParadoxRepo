@@ -10,6 +10,7 @@ public class GameManagerScript : MonoBehaviour
     public PlayableDirector KickDoorTimeLine;
     public PlayableDirector PushButtonTimeLine;
     public PlayableDirector PreChoiceTwoTimeLine;
+    public PlayableDirector KillEveryoneTimeLine;
 
     //Cameras & Canvases
     public GameObject MainCamera;
@@ -18,6 +19,12 @@ public class GameManagerScript : MonoBehaviour
     public GameObject AfterFirstChoiceCamera;
     public GameObject PreChoiceTwoCamera;
     public GameObject PreChoiceTwoCanvas;
+    public GameObject KillEveryoneCamera;
+    public GameObject TreasureCamera;
+
+    //Audioclips
+    //get: always have been and its music, BTE for menu, gunshot...
+
     // Start is called before the first frame update
     void Start(){}
 
@@ -60,9 +67,17 @@ public class GameManagerScript : MonoBehaviour
         PreChoiceTwoCanvas.SetActive(true);
     }
     public void StartKillEveryoneTimeLine() {
-        
+        PreChoiceTwoCanvas.SetActive(false);
+        KillEveryoneCamera.SetActive(true);
+        PreChoiceTwoCamera.SetActive(false);
+        PreChoiceTwoTimeLine.Stop();
+        KillEveryoneTimeLine.Play();
     }
     public void StartSaveErikaTimeLine(){
 
+    }
+    public void EnableTreasureCamera() {
+        KillEveryoneCamera.SetActive(false);
+        TreasureCamera.SetActive(true);
     }
 }
