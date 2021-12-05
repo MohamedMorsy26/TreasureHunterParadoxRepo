@@ -12,11 +12,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d79cb9ecc0d4a6d428ab98a681a33897, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeAreaShownRange: {x: 1.7580898, y: 4.723078}
+  timeAreaShownRange: {x: -0.110252686, y: 5.684628}
   trackScale: 1
   playRangeEnabled: 0
   timeAreaPlayRange: {x: 3.4028235e+38, y: 3.4028235e+38}
-  windowTime: 0
+  windowTime: 4.616666666666666
   verticalScroll: 0
   showMarkerHeader: 1
   sequencerHeaderWidth: 315
@@ -131,5 +131,5 @@ MonoBehaviour:
       width: 1
       height: 1
     trackHeightExtension: 0
-    m_MarkerTimeStampsKeys: 1464feffb256feff
-    m_MarkerTimeStampsValues: fbcb26bd43b4d9082fe16db943b4d908
+    m_MarkerTimeStampsKeys: 1464feffb256feff9232ffff80480000022bffffb0480000ac480000
+    m_MarkerTimeStampsValues: fbcb26bd43b4d9082fe16db943b4d9081e9b018b28b7d9089ee78e5c28b7d908737b318e28b7d908e61b68846ab7d908075ad1856ab7d908

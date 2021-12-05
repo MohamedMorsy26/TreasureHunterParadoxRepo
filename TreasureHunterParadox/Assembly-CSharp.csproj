@@ -53,6 +53,7 @@
     <UnityVersion>2020.3.19f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GameManagerScript.cs" />
     <Compile Include="Assets\Packages\AN Interactive Physical Door Pack\Scripts\AN_PlugScript.cs" />
     <Compile Include="Assets\Packages\AurynSky\Dungeon Pack\Scripts\SpikeTrapDemo.cs" />
     <Compile Include="Assets\Packages\AN Interactive Physical Door Pack\Scripts\AN_HeroInteractive.cs" />
@@ -61,9 +62,10 @@
     <Compile Include="Assets\Packages\AN Interactive Physical Door Pack\Scripts\AN_DoorKey.cs" />
     <Compile Include="Assets\Packages\AurynSky\Dungeon Pack\Scripts\TrapDoorDemo.cs" />
     <Compile Include="Assets\Packages\AN Interactive Physical Door Pack\Scripts\AN_DoorScript.cs" />
-    <Compile Include="Assets\GameManagerScript.cs" />
+    <Compile Include="Assets\Scripts\MenuScript.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Fonts\jack_pirate\ABSOLUTELY_VITAL_INFORMATION.txt" />
     <None Include="Assets\Packages\AurynSky\Dungeon Pack\READ ME.txt" />
   </ItemGroup>
   <ItemGroup>
