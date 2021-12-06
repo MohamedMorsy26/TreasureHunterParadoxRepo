@@ -26,9 +26,7 @@ public class GameManagerScript : MonoBehaviour
     //Audioclips
     //get: always have been and its music, BTE for menu, gunshot...
     public AudioSource MusicPlayer, SFXPlayer;
-    public AudioClip MoneyMoney, AlwaysHasBeenMusic, AmongUsStealthKill;
-    // Start is called before the first frame update
-    void Start(){}
+    public AudioClip MoneyMoney, AlwaysHasBeenMusic;
 
     // Update is called once per frame
     void Update()
@@ -42,12 +40,15 @@ public class GameManagerScript : MonoBehaviour
         SceneManager.LoadScene("Main Menu");
     }
     public void StartKickDoorTimeLine() {
-        OptionOneCanvas.SetActive(false);
+        IntroTimeLine.Stop();
         KickDoorTimeLine.Play();
+        OptionOneCanvas.SetActive(false);
     }
     public void StartPushButtonTimeLine() {
-        OptionOneCanvas.SetActive(false);
+        IntroTimeLine.Stop();
         PushButtonTimeLine.Play();
+        OptionOneCanvas.SetActive(false);
+
     }
     public void StartPreChoiceTwoTimeLine()
     {
@@ -55,6 +56,7 @@ public class GameManagerScript : MonoBehaviour
     }
     public void StartKillEveryoneTimeLine() {
         PreChoiceTwoTimeLine.Stop();
+        OptionTwoCanvas.SetActive(false);
         KillEveryoneTimeLine.Play();
     }
     public void StartSaveErikaTimeLine(){
