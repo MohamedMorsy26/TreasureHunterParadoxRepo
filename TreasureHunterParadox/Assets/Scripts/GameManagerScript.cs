@@ -19,17 +19,14 @@ public class GameManagerScript : MonoBehaviour
 
     //Cameras & Canvases
     public GameObject MainCamera;
-    public GameObject OptionOneCamera;
     public GameObject OptionOneCanvas;
-    public GameObject AfterFirstChoiceCamera;
     public GameObject PreChoiceTwoCamera;
-    public GameObject PreChoiceTwoCanvas;
+    public GameObject OptionTwoCanvas;
 
     //Audioclips
     //get: always have been and its music, BTE for menu, gunshot...
     public AudioSource MusicPlayer, SFXPlayer;
-    public AudioClip MoneyMoney, AlwaysHasBeenMusic, IntroAmongUs, IntroMoveOut,
-        FbiOpenUp, AmongUsButton, AmongUsVent, AmongUsStealthKill, AmongUsKill;
+    public AudioClip MoneyMoney, AlwaysHasBeenMusic, AmongUsStealthKill;
     // Start is called before the first frame update
     void Start(){}
 
@@ -44,16 +41,6 @@ public class GameManagerScript : MonoBehaviour
     public void GoToMainMenu() {
         SceneManager.LoadScene("Main Menu");
     }
-
-    public void ChoiceOneInitiate() {
-        OptionOneCamera.SetActive(true);
-        MainCamera.SetActive(false);
-        OptionOneCanvas.SetActive(true);
-    }
-    public void EnableAfterFirstChoiceCamera() {
-        AfterFirstChoiceCamera.SetActive(true);
-        OptionOneCamera.SetActive(false);
-    }
     public void StartKickDoorTimeLine() {
         OptionOneCanvas.SetActive(false);
         KickDoorTimeLine.Play();
@@ -65,15 +52,14 @@ public class GameManagerScript : MonoBehaviour
     public void StartPreChoiceTwoTimeLine()
     {
         PreChoiceTwoTimeLine.Play();
-        AfterFirstChoiceCamera.SetActive(false);
     }
     public void StartKillEveryoneTimeLine() {
-        PreChoiceTwoCanvas.SetActive(false);
-        PreChoiceTwoCamera.SetActive(false);
         PreChoiceTwoTimeLine.Stop();
         KillEveryoneTimeLine.Play();
     }
     public void StartSaveErikaTimeLine(){
+        PreChoiceTwoTimeLine.Stop();
+        OptionTwoCanvas.SetActive(false);
 
     }
     public void PlayTheMoney() {
@@ -82,26 +68,4 @@ public class GameManagerScript : MonoBehaviour
     public void PlayAlwaysHasBeenMusic() {
         MusicPlayer.PlayOneShot(AlwaysHasBeenMusic);
     }
-    public void PlayAmongUsIntro(){
-        SFXPlayer.PlayOneShot(IntroAmongUs);
-    }
-    public void PlayMoveOut() {
-        SFXPlayer.PlayOneShot(IntroMoveOut);
-    }
-    public void PlayFbiOpenUp() {
-        SFXPlayer.PlayOneShot(FbiOpenUp);
-    }
-    public void PlayAmongUsButton() {
-        SFXPlayer.PlayOneShot(AmongUsButton);
-    }
-    public void PlayAmongUsVent() {
-        SFXPlayer.PlayOneShot(AmongUsVent);
-    }
-    public void PlayAmongUsStealthKill() {
-        SFXPlayer.PlayOneShot(AmongUsStealthKill);
-    }
-    public void PlayAmongUsInstaKill() {
-        SFXPlayer.PlayOneShot(AmongUsKill);
-    }
-
 }
