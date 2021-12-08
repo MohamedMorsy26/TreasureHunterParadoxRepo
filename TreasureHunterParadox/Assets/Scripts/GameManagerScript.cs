@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class GameManagerScript : MonoBehaviour
 {
@@ -16,18 +17,14 @@ public class GameManagerScript : MonoBehaviour
     public PlayableDirector PushButtonTimeLine;
     public PlayableDirector PreChoiceTwoTimeLine;
     public PlayableDirector KillEveryoneTimeLine;
+    public PlayableDirector SaveErikaTimeLine;
 
     //Cameras & Canvases
     public GameObject MainCamera;
     public GameObject OptionOneCanvas;
-    public GameObject PreChoiceTwoCamera;
     public GameObject OptionTwoCanvas;
 
-    //Audioclips
-    //get: always have been and its music, BTE for menu, gunshot...
-    public AudioSource MusicPlayer, SFXPlayer;
-    public AudioClip MoneyMoney, AlwaysHasBeenMusic;
-
+    public Text ConversationText;
     // Update is called once per frame
     void Update()
     {
@@ -62,12 +59,31 @@ public class GameManagerScript : MonoBehaviour
     public void StartSaveErikaTimeLine(){
         PreChoiceTwoTimeLine.Stop();
         OptionTwoCanvas.SetActive(false);
+        SaveErikaTimeLine.Play();
 
     }
-    public void PlayTheMoney() {
-        MusicPlayer.PlayOneShot(MoneyMoney);
+    public void WhatAreYouDoing() {
+        ConversationText.text = "Erika: What are you doing?!";
     }
-    public void PlayAlwaysHasBeenMusic() {
-        MusicPlayer.PlayOneShot(AlwaysHasBeenMusic);
+    public void DoingWhatIHaveToDo(){
+        ConversationText.text = "Kenny: Doing what I have to do";
+    }
+    public void WaitYouAreATraitor() {
+        ConversationText.text = "Erika: Wait, you're a traitor?!";
+    }
+    public void AlwaysHaveBeen() {
+        ConversationText.text = "Kenny: Always have been...";
+    }
+    public void PhewThatWasClose(){
+        ConversationText.text = "Erika: Phew, that was close";
+    }
+    public void ThankYou() {
+        ConversationText.text = "Erika: Thank you";
+    }
+    public void KennyALittleHelpHere() {
+        ConversationText.text = "Erika: Hey, Kenny, a little help here, please?";
+    }
+    public void DudeComeOn() {
+        ConversationText.text = "Erika: Dude, just shoot this thing already!";
     }
 }

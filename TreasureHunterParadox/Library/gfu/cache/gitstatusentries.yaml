@@ -13,90 +13,151 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2021-12-06T20:28:49.068+02:00
-  initializedAtString: 2021-12-05T14:30:44.528+02:00
+  lastUpdatedAtString: 2021-12-08T03:16:07.693+02:00
+  initializedAtString: 2021-12-07T11:43:02.334+02:00
   entries:
-  - path: TreasureHunterParadox\Assets\Animations\ErikaIdle.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaIdle.fbx
-    projectPath: Assets\Animations\ErikaIdle.fbx
+  - path: TreasureHunterParadox\.vs\TreasureHunterParadox\v16\.suo
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\.vs\TreasureHunterParadox\v16\.suo
+    projectPath: .vs\TreasureHunterParadox\v16\.suo
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.db
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.db
+    projectPath: .vs\TreasureHunterParadox\v16\Browse.VC.db
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaIdle.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaIdle.fbx.meta
-    projectPath: Assets\Animations\ErikaIdle.fbx.meta
+  - path: TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.db-shm
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.db-shm
+    projectPath: .vs\TreasureHunterParadox\v16\Browse.VC.db-shm
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaThankful.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaThankful.fbx
-    projectPath: Assets\Animations\ErikaThankful.fbx
+  - path: TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.db-wal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.db-wal
+    projectPath: .vs\TreasureHunterParadox\v16\Browse.VC.db-wal
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaThankful.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaThankful.fbx.meta
-    projectPath: Assets\Animations\ErikaThankful.fbx.meta
+  - path: TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.opendb
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\.vs\TreasureHunterParadox\v16\Browse.VC.opendb
+    projectPath: .vs\TreasureHunterParadox\v16\Browse.VC.opendb
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaTurnRight.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaTurnRight.fbx
-    projectPath: Assets\Animations\ErikaTurnRight.fbx
+  - path: TreasureHunterParadox\Assembly-CSharp.csproj
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Assets\Animations\Erika Death.fbx.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\Erika
+      Death.fbx.meta
+    projectPath: Assets\Animations\Erika Death.fbx.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Assets\DoingWhatIHaveToDo.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\DoingWhatIHaveToDo.signal
+    projectPath: Assets\DoingWhatIHaveToDo.signal
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaTurnRight.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaTurnRight.fbx.meta
-    projectPath: Assets\Animations\ErikaTurnRight.fbx.meta
+  - path: TreasureHunterParadox\Assets\DoingWhatIHaveToDo.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\DoingWhatIHaveToDo.signal.meta
+    projectPath: Assets\DoingWhatIHaveToDo.signal.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaWalking.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaWalking.fbx
-    projectPath: Assets\Animations\ErikaWalking.fbx
+  - path: TreasureHunterParadox\Assets\DudeComeOn.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\DudeComeOn.signal
+    projectPath: Assets\DudeComeOn.signal
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ErikaWalking.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ErikaWalking.fbx.meta
-    projectPath: Assets\Animations\ErikaWalking.fbx.meta
+  - path: TreasureHunterParadox\Assets\DudeComeOn.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\DudeComeOn.signal.meta
+    projectPath: Assets\DudeComeOn.signal.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ZombieFallLeft.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ZombieFallLeft.fbx
-    projectPath: Assets\Animations\ZombieFallLeft.fbx
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks.meta
+    projectPath: Assets\Fonts\trajanusbricks.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Animations\ZombieFallLeft.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Animations\ZombieFallLeft.fbx.meta
-    projectPath: Assets\Animations\ZombieFallLeft.fbx.meta
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricks.ttf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricks.ttf
+    projectPath: Assets\Fonts\trajanusbricks\TrajanusBricks.ttf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierIdle.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierIdle.fbx
-    projectPath: Assets\EliteSoldier\animation\SoldierIdle.fbx
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricks.ttf.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricks.ttf.meta
+    projectPath: Assets\Fonts\trajanusbricks\TrajanusBricks.ttf.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierIdle.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierIdle.fbx.meta
-    projectPath: Assets\EliteSoldier\animation\SoldierIdle.fbx.meta
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricksXtra.ttf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricksXtra.ttf
+    projectPath: Assets\Fonts\trajanusbricks\TrajanusBricksXtra.ttf
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierTurnLeft.fbx
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierTurnLeft.fbx
-    projectPath: Assets\EliteSoldier\animation\SoldierTurnLeft.fbx
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricksXtra.ttf.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBricksXtra.ttf.meta
+    projectPath: Assets\Fonts\trajanusbricks\TrajanusBricksXtra.ttf.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierTurnLeft.fbx.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\EliteSoldier\animation\SoldierTurnLeft.fbx.meta
-    projectPath: Assets\EliteSoldier\animation\SoldierTurnLeft.fbx.meta
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBriX-Invers.ttf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBriX-Invers.ttf
+    projectPath: Assets\Fonts\trajanusbricks\TrajanusBriX-Invers.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBriX-Invers.ttf.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Fonts\trajanusbricks\TrajanusBriX-Invers.ttf.meta
+    projectPath: Assets\Fonts\trajanusbricks\TrajanusBriX-Invers.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\GoToMainMenu.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\GoToMainMenu.signal
+    projectPath: Assets\GoToMainMenu.signal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\GoToMainMenu.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\GoToMainMenu.signal.meta
+    projectPath: Assets\GoToMainMenu.signal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\KennyALittleHelpHere.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\KennyALittleHelpHere.signal
+    projectPath: Assets\KennyALittleHelpHere.signal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\KennyALittleHelpHere.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\KennyALittleHelpHere.signal.meta
+    projectPath: Assets\KennyALittleHelpHere.signal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\PhewThatWasClose.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\PhewThatWasClose.signal
+    projectPath: Assets\PhewThatWasClose.signal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\PhewThatWasClose.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\PhewThatWasClose.signal.meta
+    projectPath: Assets\PhewThatWasClose.signal.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -112,15 +173,586 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Assets\Signals\MoneyMoney.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Signals\MoneyMoney.signal
+    projectPath: Assets\Signals\MoneyMoney.signal
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Assets\Signals\MoneyMoney.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Signals\MoneyMoney.signal.meta
+    projectPath: Assets\Signals\MoneyMoney.signal.meta
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Assets\Sounds\Anime WOW sound.mp3
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Sounds\Anime
+      WOW sound.mp3
+    projectPath: Assets\Sounds\Anime WOW sound.mp3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\Sounds\Anime WOW sound.mp3.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Sounds\Anime
+      WOW sound.mp3.meta
+    projectPath: Assets\Sounds\Anime WOW sound.mp3.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro.meta
+    projectPath: Assets\TextMesh Pro.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Documentation.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Documentation.meta
+    projectPath: Assets\TextMesh Pro\Documentation.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Documentation\TextMesh Pro User
+      Guide 2016.pdf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Documentation\TextMesh Pro User
+      Guide 2016.pdf.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    projectPath: Assets\TextMesh Pro\Documentation\TextMesh Pro User Guide 2016.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Fonts.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Fonts.meta
+    projectPath: Assets\TextMesh Pro\Fonts.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Fonts\LiberationSans - OFL.txt
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Fonts\LiberationSans - OFL.txt.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans - OFL.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Fonts\LiberationSans.ttf
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Fonts\LiberationSans.ttf.meta
+    projectPath: Assets\TextMesh Pro\Fonts\LiberationSans.ttf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources.meta
+    projectPath: Assets\TextMesh Pro\Resources.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Drop Shadow.mat
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Drop Shadow.mat.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Drop Shadow.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Drop Shadow.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Fallback.asset.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Fallback.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Fallback.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Outline.mat
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF - Outline.mat.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF - Outline.mat.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF
+      - Outline.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans
+      SDF.asset.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Fonts & Materials\LiberationSans SDF.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\LineBreaking Following
+      Characters.txt
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\LineBreaking Following Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\LineBreaking Following
+      Characters.txt.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\LineBreaking Following Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Following Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\LineBreaking Leading
+      Characters.txt
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\LineBreaking Leading Characters.txt
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\LineBreaking Leading
+      Characters.txt.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\LineBreaking Leading Characters.txt.meta
+    projectPath: Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Sprite Assets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Sprite Assets\EmojiOne.asset
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Sprite Assets\EmojiOne.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Style Sheets.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Style Sheets.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Style Sheets\Default
+      Style Sheet.asset
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Style Sheets\Default Style Sheet.asset
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\Style Sheets\Default
+      Style Sheet.asset.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\Style Sheets\Default Style Sheet.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\TMP Settings.asset
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\TMP Settings.asset
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Resources\TMP Settings.asset.meta
+    projectPath: Assets\TextMesh Pro\Resources\TMP Settings.asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders.meta
+    projectPath: Assets\TextMesh Pro\Shaders.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Bitmap.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Bitmap.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Custom-Atlas.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Bitmap-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Bitmap-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF Overlay.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF SSD.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF SSD.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF SSD.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Masking.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile SSD.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Surface.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Surface.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_SDF-Surface-Mobile.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Sprite.shader
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMP_Sprite.shader.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMP_Sprite.shader.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro.cginc
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro_Mobile.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro_Mobile.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro_Properties.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro_Properties.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Properties.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro_Surface.cginc
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Shaders\TMPro_Surface.cginc.meta
+    projectPath: Assets\TextMesh Pro\Shaders\TMPro_Surface.cginc.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites.meta
+    projectPath: Assets\TextMesh Pro\Sprites.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites\EmojiOne Attribution.txt
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites\EmojiOne Attribution.txt.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne Attribution.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites\EmojiOne.json
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites\EmojiOne.json
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites\EmojiOne.json.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.json.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites\EmojiOne.png
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites\EmojiOne.png
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\TextMesh
+      Pro\Sprites\EmojiOne.png.meta
+    projectPath: Assets\TextMesh Pro\Sprites\EmojiOne.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\ThankYou.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\ThankYou.signal
+    projectPath: Assets\ThankYou.signal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\ThankYou.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\ThankYou.signal.meta
+    projectPath: Assets\ThankYou.signal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TreasureHunterParadox\Assets\Timelines\KillEveryoneTimeline.playable
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Timelines\KillEveryoneTimeline.playable
     projectPath: Assets\Timelines\KillEveryoneTimeline.playable
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TreasureHunterParadox\Assets\Timelines\PushButtonTimeLine.playable
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Timelines\PushButtonTimeLine.playable
-    projectPath: Assets\Timelines\PushButtonTimeLine.playable
+  - path: TreasureHunterParadox\Assets\Timelines\PreChoiceTwoTimeLine.playable
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Timelines\PreChoiceTwoTimeLine.playable
+    projectPath: Assets\Timelines\PreChoiceTwoTimeLine.playable
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -128,35 +760,125 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Timelines\SaveErikaTimeline.playable
     projectPath: Assets\Timelines\SaveErikaTimeline.playable
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Timelines\SaveErikaTimeline.playable.meta
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Timelines\SaveErikaTimeline.playable.meta
-    projectPath: Assets\Timelines\SaveErikaTimeline.playable.meta
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Assets\Timelines\TimeLineIntroTimeline.playable
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\Timelines\TimeLineIntroTimeline.playable
-    projectPath: Assets\Timelines\TimeLineIntroTimeline.playable
-    originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Assets\WaitYoureATraitor.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\WaitYoureATraitor.signal
+    projectPath: Assets\WaitYoureATraitor.signal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\WaitYoureATraitor.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\WaitYoureATraitor.signal.meta
+    projectPath: Assets\WaitYoureATraitor.signal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\WhatAreYouDoing.signal
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\WhatAreYouDoing.signal
+    projectPath: Assets\WhatAreYouDoing.signal
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Assets\WhatAreYouDoing.signal.meta
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Assets\WhatAreYouDoing.signal.meta
+    projectPath: Assets\WhatAreYouDoing.signal.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TreasureHunterParadox\Library\ArtifactDB
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ArtifactDB
     projectPath: Library\ArtifactDB
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
+    projectPath: Library\Artifacts\02\0256681953b248b8ed67af59ee2071cd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\04\04612f65146f7042ea1382ca842f7008
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\04\04612f65146f7042ea1382ca842f7008
+    projectPath: Library\Artifacts\04\04612f65146f7042ea1382ca842f7008
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\09\0976cb80610621418236b6c5acb26320
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\09\0976cb80610621418236b6c5acb26320
+    projectPath: Library\Artifacts\09\0976cb80610621418236b6c5acb26320
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\0d\0d8bc6c9695ad0b08c8e7a623b83b7a7
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\0d\0d8bc6c9695ad0b08c8e7a623b83b7a7
+    projectPath: Library\Artifacts\0d\0d8bc6c9695ad0b08c8e7a623b83b7a7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\0f\0faef5af9b9453c599785162338cd723
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\0f\0faef5af9b9453c599785162338cd723
+    projectPath: Library\Artifacts\0f\0faef5af9b9453c599785162338cd723
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TreasureHunterParadox\Library\Artifacts\10\10ce6fa97021a11e19c2dc81327de6cc
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\10\10ce6fa97021a11e19c2dc81327de6cc
     projectPath: Library\Artifacts\10\10ce6fa97021a11e19c2dc81327de6cc
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\11\1141d1ac552c991368f4ac374076c503
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\11\1141d1ac552c991368f4ac374076c503
+    projectPath: Library\Artifacts\11\1141d1ac552c991368f4ac374076c503
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\16\16714ac7bd2d2f04f1814b4122241ce8
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\16\16714ac7bd2d2f04f1814b4122241ce8
-    projectPath: Library\Artifacts\16\16714ac7bd2d2f04f1814b4122241ce8
+  - path: TreasureHunterParadox\Library\Artifacts\14\14bd123cf1288497d1494285ddf9642d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\14\14bd123cf1288497d1494285ddf9642d
+    projectPath: Library\Artifacts\14\14bd123cf1288497d1494285ddf9642d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\17\174e1854a765e10d4b149a76e3f1fa4a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\17\174e1854a765e10d4b149a76e3f1fa4a
+    projectPath: Library\Artifacts\17\174e1854a765e10d4b149a76e3f1fa4a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\19\1961b52d14d7c0f5f1a62d5346fe8ef4
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\19\1961b52d14d7c0f5f1a62d5346fe8ef4
+    projectPath: Library\Artifacts\19\1961b52d14d7c0f5f1a62d5346fe8ef4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\19\199aa22446f47a8b43d74a94616c836d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\19\199aa22446f47a8b43d74a94616c836d
+    projectPath: Library\Artifacts\19\199aa22446f47a8b43d74a94616c836d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
+    projectPath: Library\Artifacts\1a\1a258ddc71c7c10110521be4aaf0154c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\1e\1e77ede9073113337b7304f10ac8bf5d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\1e\1e77ede9073113337b7304f10ac8bf5d
+    projectPath: Library\Artifacts\1e\1e77ede9073113337b7304f10ac8bf5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
+    projectPath: Library\Artifacts\1e\1ed31fc3f522fae67435d427feced504
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
+    projectPath: Library\Artifacts\1e\1ed5d4f3ce1bb35b320ef0308fa91662
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -164,17 +886,17 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\20\202f3a7bc6731951c47f40151aa47dd9
     projectPath: Library\Artifacts\20\202f3a7bc6731951c47f40151aa47dd9
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\21\212a916059e8a45f8ce7246facf4e0bc
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\21\212a916059e8a45f8ce7246facf4e0bc
-    projectPath: Library\Artifacts\21\212a916059e8a45f8ce7246facf4e0bc
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
+    projectPath: Library\Artifacts\20\2079b858de936e182ec1a9c9cff98140
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\23\23771aebc8fac98b7bc2d2da3f032a77
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\23\23771aebc8fac98b7bc2d2da3f032a77
-    projectPath: Library\Artifacts\23\23771aebc8fac98b7bc2d2da3f032a77
+  - path: TreasureHunterParadox\Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
+    projectPath: Library\Artifacts\24\241be9e8723ac7fd14a7ed9fea7342d8
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -182,71 +904,209 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\24\246f190bd576e9083e34d012ce1674b5
     projectPath: Library\Artifacts\24\246f190bd576e9083e34d012ce1674b5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\2a\2a2df829cc131839dd09e0a70fd7d7f6
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\2a\2a2df829cc131839dd09e0a70fd7d7f6
     projectPath: Library\Artifacts\2a\2a2df829cc131839dd09e0a70fd7d7f6
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\2a\2ad681f03296a8d774cb22e029f96ad8
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\2a\2ad681f03296a8d774cb22e029f96ad8
+    projectPath: Library\Artifacts\2a\2ad681f03296a8d774cb22e029f96ad8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\2c\2c424e86cbfac7e6e3ffdad1e436256a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\2c\2c424e86cbfac7e6e3ffdad1e436256a
+    projectPath: Library\Artifacts\2c\2c424e86cbfac7e6e3ffdad1e436256a
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\2c\2cc1f10aa2ae8930a290f523a0557fa3
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\2c\2cc1f10aa2ae8930a290f523a0557fa3
+    projectPath: Library\Artifacts\2c\2cc1f10aa2ae8930a290f523a0557fa3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\31\3190f3ed823b865ac23beeedca30e60d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\31\3190f3ed823b865ac23beeedca30e60d
+    projectPath: Library\Artifacts\31\3190f3ed823b865ac23beeedca30e60d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\32\32050aefb9e62b76e85194e61f970e58
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\32\32050aefb9e62b76e85194e61f970e58
+    projectPath: Library\Artifacts\32\32050aefb9e62b76e85194e61f970e58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\33\33a75f7436dba179d93a2c678c531bc8
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\33\33a75f7436dba179d93a2c678c531bc8
     projectPath: Library\Artifacts\33\33a75f7436dba179d93a2c678c531bc8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\35\3536424c01271894f69fb3ad69ffaad9
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\35\3536424c01271894f69fb3ad69ffaad9
     projectPath: Library\Artifacts\35\3536424c01271894f69fb3ad69ffaad9
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\35\35ece3dad527e1b9167f919ceba979ec
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\35\35ece3dad527e1b9167f919ceba979ec
+    projectPath: Library\Artifacts\35\35ece3dad527e1b9167f919ceba979ec
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\3a\3a0255d77630323f587fcf15864220dd
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\3a\3a0255d77630323f587fcf15864220dd
+    projectPath: Library\Artifacts\3a\3a0255d77630323f587fcf15864220dd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\3a\3ac42d486e3fc84569df2de9512103c9
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\3a\3ac42d486e3fc84569df2de9512103c9
+    projectPath: Library\Artifacts\3a\3ac42d486e3fc84569df2de9512103c9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\3b\3b588b8f1fe5a6c9c37dc54aaeea3348
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\3b\3b588b8f1fe5a6c9c37dc54aaeea3348
+    projectPath: Library\Artifacts\3b\3b588b8f1fe5a6c9c37dc54aaeea3348
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\3f\3f943094836f1a1026472b2978eb85cb
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\3f\3f943094836f1a1026472b2978eb85cb
+    projectPath: Library\Artifacts\3f\3f943094836f1a1026472b2978eb85cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\41\41275c8b029bd8260467877d70c3b04f
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\41\41275c8b029bd8260467877d70c3b04f
+    projectPath: Library\Artifacts\41\41275c8b029bd8260467877d70c3b04f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\41\41ece0ae74de1b4e1d4fbee48bd4fea4
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\41\41ece0ae74de1b4e1d4fbee48bd4fea4
     projectPath: Library\Artifacts\41\41ece0ae74de1b4e1d4fbee48bd4fea4
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\42\42c650c283cf0513037fdbb22d298c79
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\42\42c650c283cf0513037fdbb22d298c79
+    projectPath: Library\Artifacts\42\42c650c283cf0513037fdbb22d298c79
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\43\43da9701f11029079cbb053c3898e92d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\43\43da9701f11029079cbb053c3898e92d
+    projectPath: Library\Artifacts\43\43da9701f11029079cbb053c3898e92d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\45\45027abf35cc77a063be9963ec206276
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\45\45027abf35cc77a063be9963ec206276
+    projectPath: Library\Artifacts\45\45027abf35cc77a063be9963ec206276
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\45\453e10c048c5b26ebe32363349eb5bb9
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\45\453e10c048c5b26ebe32363349eb5bb9
+    projectPath: Library\Artifacts\45\453e10c048c5b26ebe32363349eb5bb9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\50\503534795f50f1b7b73371c6f0c66527
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\50\503534795f50f1b7b73371c6f0c66527
+    projectPath: Library\Artifacts\50\503534795f50f1b7b73371c6f0c66527
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\54\5450c30f7cdef14004ef0268d980fa4b
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\54\5450c30f7cdef14004ef0268d980fa4b
     projectPath: Library\Artifacts\54\5450c30f7cdef14004ef0268d980fa4b
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\56\56158d0d5f77c2bb5c9b7130c76e29e7
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\56\56158d0d5f77c2bb5c9b7130c76e29e7
-    projectPath: Library\Artifacts\56\56158d0d5f77c2bb5c9b7130c76e29e7
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\57\57d052a96a129a56e93fb579bdfe0c45
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\57\57d052a96a129a56e93fb579bdfe0c45
     projectPath: Library\Artifacts\57\57d052a96a129a56e93fb579bdfe0c45
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\58\58c57a785d772d965baf40106be9d71c
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\58\58c57a785d772d965baf40106be9d71c
-    projectPath: Library\Artifacts\58\58c57a785d772d965baf40106be9d71c
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\59\5912c20c69c6903932462a7dc8feb937
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\59\5912c20c69c6903932462a7dc8feb937
+    projectPath: Library\Artifacts\59\5912c20c69c6903932462a7dc8feb937
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\68\68c210eb1a256e68a64988726ee55181
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\68\68c210eb1a256e68a64988726ee55181
-    projectPath: Library\Artifacts\68\68c210eb1a256e68a64988726ee55181
+  - path: TreasureHunterParadox\Library\Artifacts\5e\5eef4254e785498211d413144d093b5f
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\5e\5eef4254e785498211d413144d093b5f
+    projectPath: Library\Artifacts\5e\5eef4254e785498211d413144d093b5f
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\69\698230f9f046edf49bfd77bfc205495a
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\69\698230f9f046edf49bfd77bfc205495a
-    projectPath: Library\Artifacts\69\698230f9f046edf49bfd77bfc205495a
+  - path: TreasureHunterParadox\Library\Artifacts\5f\5ffaf0a3864625c6eaa7e1aeed8cf4de
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\5f\5ffaf0a3864625c6eaa7e1aeed8cf4de
+    projectPath: Library\Artifacts\5f\5ffaf0a3864625c6eaa7e1aeed8cf4de
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\60\607a3a24b3ab56947b46a25142ae4dac
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\60\607a3a24b3ab56947b46a25142ae4dac
+    projectPath: Library\Artifacts\60\607a3a24b3ab56947b46a25142ae4dac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\71\712b6bca5e07d2868e2f80265bca7a25
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\71\712b6bca5e07d2868e2f80265bca7a25
-    projectPath: Library\Artifacts\71\712b6bca5e07d2868e2f80265bca7a25
+  - path: TreasureHunterParadox\Library\Artifacts\60\60af908b700ca54a786014233c0ebbfd
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\60\60af908b700ca54a786014233c0ebbfd
+    projectPath: Library\Artifacts\60\60af908b700ca54a786014233c0ebbfd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\63\630c122016a732397b5453d6d3e0cd1f
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\63\630c122016a732397b5453d6d3e0cd1f
+    projectPath: Library\Artifacts\63\630c122016a732397b5453d6d3e0cd1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
+    projectPath: Library\Artifacts\64\640136691f2eddcf9c98409745d0ff2a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\66\662bfc7d9f6adfa54a1900181baecc77
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\66\662bfc7d9f6adfa54a1900181baecc77
+    projectPath: Library\Artifacts\66\662bfc7d9f6adfa54a1900181baecc77
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\68\68322d79a7ce1380ae2a8baaf7377a60
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\68\68322d79a7ce1380ae2a8baaf7377a60
+    projectPath: Library\Artifacts\68\68322d79a7ce1380ae2a8baaf7377a60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\68\68b0f288444847abffdd564c37e8fffc
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\68\68b0f288444847abffdd564c37e8fffc
+    projectPath: Library\Artifacts\68\68b0f288444847abffdd564c37e8fffc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
+    projectPath: Library\Artifacts\6f\6f56f85f04b89892d3bd34dd2afdcf78
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\6f\6ff1626772392b4456bf17ee648019ac
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\6f\6ff1626772392b4456bf17ee648019ac
+    projectPath: Library\Artifacts\6f\6ff1626772392b4456bf17ee648019ac
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -254,47 +1114,101 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\72\72574c50d312ed831aedd32b3e51c1d8
     projectPath: Library\Artifacts\72\72574c50d312ed831aedd32b3e51c1d8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\76\76d8115c8ef4d455ec98282b41c91ca7
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\76\76d8115c8ef4d455ec98282b41c91ca7
-    projectPath: Library\Artifacts\76\76d8115c8ef4d455ec98282b41c91ca7
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\72\72d29515c8cdc0f48b5c7c8bf4bab26a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\72\72d29515c8cdc0f48b5c7c8bf4bab26a
+    projectPath: Library\Artifacts\72\72d29515c8cdc0f48b5c7c8bf4bab26a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\7b\7b8159d61b19fce0a7d91d130c7fcd7d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\7b\7b8159d61b19fce0a7d91d130c7fcd7d
+    projectPath: Library\Artifacts\7b\7b8159d61b19fce0a7d91d130c7fcd7d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\7b\7bba6a670bfec3a11e82a86c357bd044
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\7b\7bba6a670bfec3a11e82a86c357bd044
+    projectPath: Library\Artifacts\7b\7bba6a670bfec3a11e82a86c357bd044
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\7e\7e99e31d18c02381c0370b91e36f286f
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\7e\7e99e31d18c02381c0370b91e36f286f
     projectPath: Library\Artifacts\7e\7e99e31d18c02381c0370b91e36f286f
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\84\84e8f5ee7b3b4523b91df559152c4580
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\84\84e8f5ee7b3b4523b91df559152c4580
-    projectPath: Library\Artifacts\84\84e8f5ee7b3b4523b91df559152c4580
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\7f\7f462eb11f680c76096a7cb2e559a1af
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\7f\7f462eb11f680c76096a7cb2e559a1af
+    projectPath: Library\Artifacts\7f\7f462eb11f680c76096a7cb2e559a1af
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\88\88c5e4be5eb0aa3462d886933003d1f5
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\88\88c5e4be5eb0aa3462d886933003d1f5
+    projectPath: Library\Artifacts\88\88c5e4be5eb0aa3462d886933003d1f5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\8a\8accb35f11287f19562f41d96b753bbd
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\8a\8accb35f11287f19562f41d96b753bbd
+    projectPath: Library\Artifacts\8a\8accb35f11287f19562f41d96b753bbd
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\87\87612cc4c754e65d7df782359aec3bea
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\87\87612cc4c754e65d7df782359aec3bea
-    projectPath: Library\Artifacts\87\87612cc4c754e65d7df782359aec3bea
+  - path: TreasureHunterParadox\Library\Artifacts\8c\8cdd7d0341a905c9110c926e9ee4d7c2
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\8c\8cdd7d0341a905c9110c926e9ee4d7c2
+    projectPath: Library\Artifacts\8c\8cdd7d0341a905c9110c926e9ee4d7c2
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\9a\9ad8247d748a2d789b70f44a2c89fa92
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\9a\9ad8247d748a2d789b70f44a2c89fa92
-    projectPath: Library\Artifacts\9a\9ad8247d748a2d789b70f44a2c89fa92
+  - path: TreasureHunterParadox\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\9e\9e191f3e50235eee6f9d21ae2c59ac40
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\9e\9e191f3e50235eee6f9d21ae2c59ac40
-    projectPath: Library\Artifacts\9e\9e191f3e50235eee6f9d21ae2c59ac40
+  - path: TreasureHunterParadox\Library\Artifacts\91\91e639d9a3280f17297fee9610e1ce46
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\91\91e639d9a3280f17297fee9610e1ce46
+    projectPath: Library\Artifacts\91\91e639d9a3280f17297fee9610e1ce46
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\9f\9f1d4b2c00be8f22d48b7fc938a8dd84
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\9f\9f1d4b2c00be8f22d48b7fc938a8dd84
-    projectPath: Library\Artifacts\9f\9f1d4b2c00be8f22d48b7fc938a8dd84
+  - path: TreasureHunterParadox\Library\Artifacts\91\91ec5252d1507a7728ec579bad408959
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\91\91ec5252d1507a7728ec579bad408959
+    projectPath: Library\Artifacts\91\91ec5252d1507a7728ec579bad408959
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\93\932ee37e96d3d84ccb8414037a336679
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\93\932ee37e96d3d84ccb8414037a336679
+    projectPath: Library\Artifacts\93\932ee37e96d3d84ccb8414037a336679
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\96\965ac89bc7d7fecefb28eb1e924a602d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\96\965ac89bc7d7fecefb28eb1e924a602d
+    projectPath: Library\Artifacts\96\965ac89bc7d7fecefb28eb1e924a602d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\96\96993f8bffe029260fb069eef552ad71
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\96\96993f8bffe029260fb069eef552ad71
+    projectPath: Library\Artifacts\96\96993f8bffe029260fb069eef552ad71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\98\980eefb5d45172b68a916be68ea7ee1a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\98\980eefb5d45172b68a916be68ea7ee1a
+    projectPath: Library\Artifacts\98\980eefb5d45172b68a916be68ea7ee1a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\99\99d2c7ed1a0eb98c1452504fc7c87054
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\99\99d2c7ed1a0eb98c1452504fc7c87054
+    projectPath: Library\Artifacts\99\99d2c7ed1a0eb98c1452504fc7c87054
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -302,17 +1216,125 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\a1\a1d8775590e947e1d0eacf132e0573f0
     projectPath: Library\Artifacts\a1\a1d8775590e947e1d0eacf132e0573f0
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\aa\aa23cfc5b6e418798982b28563540e12
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\aa\aa23cfc5b6e418798982b28563540e12
+    projectPath: Library\Artifacts\aa\aa23cfc5b6e418798982b28563540e12
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
   - path: TreasureHunterParadox\Library\Artifacts\ad\addbf9991de8cf931cbad0b2c238ddd6
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ad\addbf9991de8cf931cbad0b2c238ddd6
     projectPath: Library\Artifacts\ad\addbf9991de8cf931cbad0b2c238ddd6
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\b0\b00be3b36842819d8ed17a50b7c965c0
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b0\b00be3b36842819d8ed17a50b7c965c0
+    projectPath: Library\Artifacts\b0\b00be3b36842819d8ed17a50b7c965c0
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\b1\b1c6dbb60e8bde7bab80b0e8ca565109
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b1\b1c6dbb60e8bde7bab80b0e8ca565109
+    projectPath: Library\Artifacts\b1\b1c6dbb60e8bde7bab80b0e8ca565109
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\b2\b20ecfd3e0d66c901ba991d2ab3713d6
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b2\b20ecfd3e0d66c901ba991d2ab3713d6
+    projectPath: Library\Artifacts\b2\b20ecfd3e0d66c901ba991d2ab3713d6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\b2\b2a804c3836966ade1a0a4f57f95e5fa
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b2\b2a804c3836966ade1a0a4f57f95e5fa
+    projectPath: Library\Artifacts\b2\b2a804c3836966ade1a0a4f57f95e5fa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\b3\b3a91b55d803901ab175955897dd3c46
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b3\b3a91b55d803901ab175955897dd3c46
+    projectPath: Library\Artifacts\b3\b3a91b55d803901ab175955897dd3c46
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\b7\b7c5ef1853bb226437a884152c917141
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b7\b7c5ef1853bb226437a884152c917141
+    projectPath: Library\Artifacts\b7\b7c5ef1853bb226437a884152c917141
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\b9\b9afdd487d4985b477a8cab2d1075f48
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b9\b9afdd487d4985b477a8cab2d1075f48
+    projectPath: Library\Artifacts\b9\b9afdd487d4985b477a8cab2d1075f48
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\b9\b9b125d0212bd761afe0862e5e0fcc01
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\b9\b9b125d0212bd761afe0862e5e0fcc01
+    projectPath: Library\Artifacts\b9\b9b125d0212bd761afe0862e5e0fcc01
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\ba\ba62c5e0212764ddbaf3b9b8775e3dbd
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ba\ba62c5e0212764ddbaf3b9b8775e3dbd
+    projectPath: Library\Artifacts\ba\ba62c5e0212764ddbaf3b9b8775e3dbd
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\ba\baf39ca91df6410dd6b4d2c604d98deb
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ba\baf39ca91df6410dd6b4d2c604d98deb
+    projectPath: Library\Artifacts\ba\baf39ca91df6410dd6b4d2c604d98deb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\bb\bb2e7769f5ba9e4a354f0ee6cb68d635
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\bb\bb2e7769f5ba9e4a354f0ee6cb68d635
     projectPath: Library\Artifacts\bb\bb2e7769f5ba9e4a354f0ee6cb68d635
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\bb\bb7ede44e26d6c780dff3567f320e8e5
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\bb\bb7ede44e26d6c780dff3567f320e8e5
+    projectPath: Library\Artifacts\bb\bb7ede44e26d6c780dff3567f320e8e5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\bb\bbc4e185f2bc1e2a1be2ad2564857966
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\bb\bbc4e185f2bc1e2a1be2ad2564857966
+    projectPath: Library\Artifacts\bb\bbc4e185f2bc1e2a1be2ad2564857966
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\bd\bd373738a0d851a806cc1f9635c13177
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\bd\bd373738a0d851a806cc1f9635c13177
+    projectPath: Library\Artifacts\bd\bd373738a0d851a806cc1f9635c13177
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\bd\bd87ff7910f148f83bb2ab12d03a9d8e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\bd\bd87ff7910f148f83bb2ab12d03a9d8e
+    projectPath: Library\Artifacts\bd\bd87ff7910f148f83bb2ab12d03a9d8e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\c0\c016f388593a214d56200693a2f07b67
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\c0\c016f388593a214d56200693a2f07b67
+    projectPath: Library\Artifacts\c0\c016f388593a214d56200693a2f07b67
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\c3\c35a53a0e80d363073d583221ef13d39
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\c3\c35a53a0e80d363073d583221ef13d39
+    projectPath: Library\Artifacts\c3\c35a53a0e80d363073d583221ef13d39
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\c6\c67e79a30ca794e9b7786d7cdb2184a7
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\c6\c67e79a30ca794e9b7786d7cdb2184a7
+    projectPath: Library\Artifacts\c6\c67e79a30ca794e9b7786d7cdb2184a7
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -320,29 +1342,149 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ca\ca640cacce3e91c0ac43fe272f503ad8
     projectPath: Library\Artifacts\ca\ca640cacce3e91c0ac43fe272f503ad8
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\ca\cabd0654fc10c6ea490b156eca1b03bb
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ca\cabd0654fc10c6ea490b156eca1b03bb
     projectPath: Library\Artifacts\ca\cabd0654fc10c6ea490b156eca1b03bb
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Library\Artifacts\d0\d051a9b3dbed86fee2413d8557e61224
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d0\d051a9b3dbed86fee2413d8557e61224
     projectPath: Library\Artifacts\d0\d051a9b3dbed86fee2413d8557e61224
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\d5\d553a03248b0b78f9e873a9c3927a556
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d5\d553a03248b0b78f9e873a9c3927a556
-    projectPath: Library\Artifacts\d5\d553a03248b0b78f9e873a9c3927a556
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\d2\d214d0848cdbc248d81e56852c872ba5
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d2\d214d0848cdbc248d81e56852c872ba5
+    projectPath: Library\Artifacts\d2\d214d0848cdbc248d81e56852c872ba5
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\e0\e080a51b3e0af075f7de236fe04adc1e
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\e0\e080a51b3e0af075f7de236fe04adc1e
-    projectPath: Library\Artifacts\e0\e080a51b3e0af075f7de236fe04adc1e
+  - path: TreasureHunterParadox\Library\Artifacts\d2\d28dfbd6df87a0c16fc7079eec71c203
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d2\d28dfbd6df87a0c16fc7079eec71c203
+    projectPath: Library\Artifacts\d2\d28dfbd6df87a0c16fc7079eec71c203
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\d2\d2f29aeac7693d1f4831e3aba7e2d3a6
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d2\d2f29aeac7693d1f4831e3aba7e2d3a6
+    projectPath: Library\Artifacts\d2\d2f29aeac7693d1f4831e3aba7e2d3a6
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
+    projectPath: Library\Artifacts\d5\d53340514d5c6a21711e45df4eefe7a9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\d6\d6399329519592807e50052365508fda
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d6\d6399329519592807e50052365508fda
+    projectPath: Library\Artifacts\d6\d6399329519592807e50052365508fda
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\d9\d91efb8998c469a28add2f947d92cc45
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d9\d91efb8998c469a28add2f947d92cc45
+    projectPath: Library\Artifacts\d9\d91efb8998c469a28add2f947d92cc45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\d9\d98bf93db56be8000313cf728855f367
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\d9\d98bf93db56be8000313cf728855f367
+    projectPath: Library\Artifacts\d9\d98bf93db56be8000313cf728855f367
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\da\da28a0032638dcc85e1e7dd18fc6d80c
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\da\da28a0032638dcc85e1e7dd18fc6d80c
+    projectPath: Library\Artifacts\da\da28a0032638dcc85e1e7dd18fc6d80c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\db\db19bdb85134b11b7b0734ae51dc3a34
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\db\db19bdb85134b11b7b0734ae51dc3a34
+    projectPath: Library\Artifacts\db\db19bdb85134b11b7b0734ae51dc3a34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\de\de5ceff0fe343b575b2c3ebc839c48bf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\de\de5ceff0fe343b575b2c3ebc839c48bf
+    projectPath: Library\Artifacts\de\de5ceff0fe343b575b2c3ebc839c48bf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\df\df3169b55ae614c8b6c1ee24735b60b1
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\df\df3169b55ae614c8b6c1ee24735b60b1
+    projectPath: Library\Artifacts\df\df3169b55ae614c8b6c1ee24735b60b1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\df\dff590b219e35dd7c41812f74b0a21cb
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\df\dff590b219e35dd7c41812f74b0a21cb
+    projectPath: Library\Artifacts\df\dff590b219e35dd7c41812f74b0a21cb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\e2\e27f4cc83e76ce6c887529b2a6387572
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\e2\e27f4cc83e76ce6c887529b2a6387572
+    projectPath: Library\Artifacts\e2\e27f4cc83e76ce6c887529b2a6387572
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\e2\e2d81a7d88df52d4bfbb5fe5d3a0909b
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\e2\e2d81a7d88df52d4bfbb5fe5d3a0909b
+    projectPath: Library\Artifacts\e2\e2d81a7d88df52d4bfbb5fe5d3a0909b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
+    projectPath: Library\Artifacts\e3\e375aa0756f6a88aec49dd84739ec6ce
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\e8\e8ef59876a6b5b1c660a029f4bbb0b14
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\e8\e8ef59876a6b5b1c660a029f4bbb0b14
+    projectPath: Library\Artifacts\e8\e8ef59876a6b5b1c660a029f4bbb0b14
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\eb\ebb073289d43182b18864968d26b2966
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\eb\ebb073289d43182b18864968d26b2966
+    projectPath: Library\Artifacts\eb\ebb073289d43182b18864968d26b2966
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\ed\edea543c49bf50e3bd0b38eee7475439
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ed\edea543c49bf50e3bd0b38eee7475439
+    projectPath: Library\Artifacts\ed\edea543c49bf50e3bd0b38eee7475439
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
+    projectPath: Library\Artifacts\ef\ef55ee5853f21f62a550389d2f7729ff
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\f0\f0813d797e28afe135a614162ce05d45
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\f0\f0813d797e28afe135a614162ce05d45
+    projectPath: Library\Artifacts\f0\f0813d797e28afe135a614162ce05d45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\f1\f13505933c94787d51b326ba72f4eb5d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\f1\f13505933c94787d51b326ba72f4eb5d
+    projectPath: Library\Artifacts\f1\f13505933c94787d51b326ba72f4eb5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
+    projectPath: Library\Artifacts\f3\f32aa3ae163ff4a38301ae7cad03227b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -350,17 +1492,41 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\f4\f49c61837f1d533a493ffefd309c69e5
     projectPath: Library\Artifacts\f4\f49c61837f1d533a493ffefd309c69e5
     originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Artifacts\fa\fa6570fe415d960ee296df1214771a43
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\fa\fa6570fe415d960ee296df1214771a43
-    projectPath: Library\Artifacts\fa\fa6570fe415d960ee296df1214771a43
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Library\Artifacts\f5\f507cec2e6e00d7a60a7aac9e9f9e59a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\f5\f507cec2e6e00d7a60a7aac9e9f9e59a
+    projectPath: Library\Artifacts\f5\f507cec2e6e00d7a60a7aac9e9f9e59a
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\f6\f60bd80dd46e48e2c221fbef9d8c0133
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\f6\f60bd80dd46e48e2c221fbef9d8c0133
+    projectPath: Library\Artifacts\f6\f60bd80dd46e48e2c221fbef9d8c0133
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\Artifacts\fd\fd3375b7681da7c2422ff2625a50f258
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Artifacts\fd\fd3375b7681da7c2422ff2625a50f258
+    projectPath: Library\Artifacts\fd\fd3375b7681da7c2422ff2625a50f258
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\CurrentLayout-default.dwlt
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TreasureHunterParadox\Library\CurrentMaximizeLayout.dwlt
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\CurrentMaximizeLayout.dwlt
     projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Library\EditorInstance.json
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -400,6 +1566,18 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Library\InspectorExpandedItems.asset
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\InspectorExpandedItems.asset
+    projectPath: Library\InspectorExpandedItems.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Library\LastSceneManagerSetup.txt
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\LastSceneManagerSetup.txt
+    projectPath: Library\LastSceneManagerSetup.txt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TreasureHunterParadox\Library\SceneVisibilityState.asset
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\SceneVisibilityState.asset
     projectPath: Library\SceneVisibilityState.asset
@@ -418,6 +1596,216 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Library\ScriptMapper
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ScriptMapper
+    projectPath: Library\ScriptMapper
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Library\ShaderCache\0\0215aa5b62d0b987d1b00d890623ad8e.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\0\0215aa5b62d0b987d1b00d890623ad8e.bin
+    projectPath: Library\ShaderCache\0\0215aa5b62d0b987d1b00d890623ad8e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\0\06870300b6113ff05439631362d59eae.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\0\06870300b6113ff05439631362d59eae.bin
+    projectPath: Library\ShaderCache\0\06870300b6113ff05439631362d59eae.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\0\093429012a1caf7107a2a711d3fe2558.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\0\093429012a1caf7107a2a711d3fe2558.bin
+    projectPath: Library\ShaderCache\0\093429012a1caf7107a2a711d3fe2558.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\0\0979a303850ea20f2ac0c71677a33e8b.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\0\0979a303850ea20f2ac0c71677a33e8b.bin
+    projectPath: Library\ShaderCache\0\0979a303850ea20f2ac0c71677a33e8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\0\0b000fdcb68beee434575279a9084cb7.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\0\0b000fdcb68beee434575279a9084cb7.bin
+    projectPath: Library\ShaderCache\0\0b000fdcb68beee434575279a9084cb7.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\1\1643ac62dfa00f2b1cb83fd53a636560.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\1\1643ac62dfa00f2b1cb83fd53a636560.bin
+    projectPath: Library\ShaderCache\1\1643ac62dfa00f2b1cb83fd53a636560.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\2\21f02c57be216640ef6cd2f900412aee.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\2\21f02c57be216640ef6cd2f900412aee.bin
+    projectPath: Library\ShaderCache\2\21f02c57be216640ef6cd2f900412aee.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\2\2dd90d0f668f551c527821ccf828f60b.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\2\2dd90d0f668f551c527821ccf828f60b.bin
+    projectPath: Library\ShaderCache\2\2dd90d0f668f551c527821ccf828f60b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\4\42050608ce436be47762280625a2d5af.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\4\42050608ce436be47762280625a2d5af.bin
+    projectPath: Library\ShaderCache\4\42050608ce436be47762280625a2d5af.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\4\483a120c97827bc5efee841f7faea7b3.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\4\483a120c97827bc5efee841f7faea7b3.bin
+    projectPath: Library\ShaderCache\4\483a120c97827bc5efee841f7faea7b3.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\4\4c562a5ac9a73240b5c877df45951660.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\4\4c562a5ac9a73240b5c877df45951660.bin
+    projectPath: Library\ShaderCache\4\4c562a5ac9a73240b5c877df45951660.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\4\4efdf5e38c08ff6df08e0152a50563b9.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\4\4efdf5e38c08ff6df08e0152a50563b9.bin
+    projectPath: Library\ShaderCache\4\4efdf5e38c08ff6df08e0152a50563b9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\5\521c29e55fabb76700f999bf07fe6124.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\5\521c29e55fabb76700f999bf07fe6124.bin
+    projectPath: Library\ShaderCache\5\521c29e55fabb76700f999bf07fe6124.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\5\57d0f12e66ac8f270a8ae809bfcf76fc.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\5\57d0f12e66ac8f270a8ae809bfcf76fc.bin
+    projectPath: Library\ShaderCache\5\57d0f12e66ac8f270a8ae809bfcf76fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\6\68757bd58891a431e783ea6200483efb.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\6\68757bd58891a431e783ea6200483efb.bin
+    projectPath: Library\ShaderCache\6\68757bd58891a431e783ea6200483efb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\6\6e2c38ea70b8090fa07215ab4e9f089c.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\6\6e2c38ea70b8090fa07215ab4e9f089c.bin
+    projectPath: Library\ShaderCache\6\6e2c38ea70b8090fa07215ab4e9f089c.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\7\79514126875a8524476237bba2cc5a8b.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\7\79514126875a8524476237bba2cc5a8b.bin
+    projectPath: Library\ShaderCache\7\79514126875a8524476237bba2cc5a8b.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\7\7cb2fd6788439ec3d599566ea796b270.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\7\7cb2fd6788439ec3d599566ea796b270.bin
+    projectPath: Library\ShaderCache\7\7cb2fd6788439ec3d599566ea796b270.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\7\7e476abfa7612f9226b28f7253782cd5.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\7\7e476abfa7612f9226b28f7253782cd5.bin
+    projectPath: Library\ShaderCache\7\7e476abfa7612f9226b28f7253782cd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\8\84d20daac1e8f91da7e08be4d5e3ae14.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\8\84d20daac1e8f91da7e08be4d5e3ae14.bin
+    projectPath: Library\ShaderCache\8\84d20daac1e8f91da7e08be4d5e3ae14.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\8\8578d0fe41ec8d09fd71c71d76911f3a.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\8\8578d0fe41ec8d09fd71c71d76911f3a.bin
+    projectPath: Library\ShaderCache\8\8578d0fe41ec8d09fd71c71d76911f3a.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\8\89ae5f030c37d8c3a932ad9c36b1e210.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\8\89ae5f030c37d8c3a932ad9c36b1e210.bin
+    projectPath: Library\ShaderCache\8\89ae5f030c37d8c3a932ad9c36b1e210.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\9\9cc82d9813287bd5e1ef046d465041d1.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\9\9cc82d9813287bd5e1ef046d465041d1.bin
+    projectPath: Library\ShaderCache\9\9cc82d9813287bd5e1ef046d465041d1.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\a\a82b5ebd3673a8742292ddedf46aeee5.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\a\a82b5ebd3673a8742292ddedf46aeee5.bin
+    projectPath: Library\ShaderCache\a\a82b5ebd3673a8742292ddedf46aeee5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\a\aabcf657fbf1f54795c27b0422bcfee9.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\a\aabcf657fbf1f54795c27b0422bcfee9.bin
+    projectPath: Library\ShaderCache\a\aabcf657fbf1f54795c27b0422bcfee9.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\a\af6e88de94bbffc2a4ecbca5610d42ea.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\a\af6e88de94bbffc2a4ecbca5610d42ea.bin
+    projectPath: Library\ShaderCache\a\af6e88de94bbffc2a4ecbca5610d42ea.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\b\b0402714cb113cf6caed9ab46bc8ddd5.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\b\b0402714cb113cf6caed9ab46bc8ddd5.bin
+    projectPath: Library\ShaderCache\b\b0402714cb113cf6caed9ab46bc8ddd5.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\c\c1f92d2e3469ab5d1359a4dfa4eb113e.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\c\c1f92d2e3469ab5d1359a4dfa4eb113e.bin
+    projectPath: Library\ShaderCache\c\c1f92d2e3469ab5d1359a4dfa4eb113e.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\c\cd74942b0dede8c873be6418d30db22d.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\c\cd74942b0dede8c873be6418d30db22d.bin
+    projectPath: Library\ShaderCache\c\cd74942b0dede8c873be6418d30db22d.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\c\cfc32c45e2819747a7de0d743e4a0fcb.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\c\cfc32c45e2819747a7de0d743e4a0fcb.bin
+    projectPath: Library\ShaderCache\c\cfc32c45e2819747a7de0d743e4a0fcb.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\d\d7df0cb6819596013d304eb4068de901.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\d\d7df0cb6819596013d304eb4068de901.bin
+    projectPath: Library\ShaderCache\d\d7df0cb6819596013d304eb4068de901.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\d\d94aa46b648d3fc810635337c9718de0.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\d\d94aa46b648d3fc810635337c9718de0.bin
+    projectPath: Library\ShaderCache\d\d94aa46b648d3fc810635337c9718de0.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\d\dc19644ef83605ee9031f6d974d5c5bc.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\d\dc19644ef83605ee9031f6d974d5c5bc.bin
+    projectPath: Library\ShaderCache\d\dc19644ef83605ee9031f6d974d5c5bc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Library\ShaderCache\e\e6d60027808494a4cc17c4e9e59bf1fc.bin
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\e\e6d60027808494a4cc17c4e9e59bf1fc.bin
+    projectPath: Library\ShaderCache\e\e6d60027808494a4cc17c4e9e59bf1fc.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
   - path: TreasureHunterParadox\Library\ShaderCache\EditorEncounteredVariants
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\ShaderCache\EditorEncounteredVariants
     projectPath: Library\ShaderCache\EditorEncounteredVariants
@@ -442,30 +1830,6 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: TreasureHunterParadox\Library\Timeline\4c772923203d7a948bd66dbc8ec5f79b.pref
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Timeline\4c772923203d7a948bd66dbc8ec5f79b.pref
-    projectPath: Library\Timeline\4c772923203d7a948bd66dbc8ec5f79b.pref
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TreasureHunterParadox\Library\Timeline\55a117ffdf8d25a4ba276faf56b14b5b.pref
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Timeline\55a117ffdf8d25a4ba276faf56b14b5b.pref
-    projectPath: Library\Timeline\55a117ffdf8d25a4ba276faf56b14b5b.pref
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: TreasureHunterParadox\Library\Timeline\8872950a2dfb08145a12109c61b67494.pref
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Timeline\8872950a2dfb08145a12109c61b67494.pref
-    projectPath: Library\Timeline\8872950a2dfb08145a12109c61b67494.pref
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: TreasureHunterParadox\Library\Timeline\b06d601bfe926f24eae2cbde40ce7ac5.pref
-    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Timeline\b06d601bfe926f24eae2cbde40ce7ac5.pref
-    projectPath: Library\Timeline\b06d601bfe926f24eae2cbde40ce7ac5.pref
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
   - path: TreasureHunterParadox\Library\Timeline\b5588e3d5c5c8e143be72a4c6ae06895.pref
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Timeline\b5588e3d5c5c8e143be72a4c6ae06895.pref
     projectPath: Library\Timeline\b5588e3d5c5c8e143be72a4c6ae06895.pref
@@ -482,35 +1846,287 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Library\Timeline\dd76d6cfe93fee841bac8d7d3eb3acfc.pref
     projectPath: Library\Timeline\dd76d6cfe93fee841bac8d7d3eb3acfc.pref
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\AssetImportWorker0.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\AssetImportWorker0-prev.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\AssetImportWorker1.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\AssetImportWorker1-prev.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\AssetImportWorker1-prev.log
+    projectPath: Logs\AssetImportWorker1-prev.log
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Logs\AssetImportWorker2.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\AssetImportWorker2.log
+    projectPath: Logs\AssetImportWorker2.log
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: TreasureHunterParadox\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    projectPath: obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: TreasureHunterParadox\Temp\__Backupscenes\0.backup
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\__Backupscenes\0.backup
     projectPath: Temp\__Backupscenes\0.backup
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Temp\ApiUpdater_CheckMovedFrom5cbeef93a2585fd489b072859164c22f
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\ApiUpdater_CheckMovedFrom5cbeef93a2585fd489b072859164c22f
+    projectPath: Temp\ApiUpdater_CheckMovedFrom5cbeef93a2585fd489b072859164c22f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Temp\Assembly-CSharp.dll.hash
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Assembly-CSharp.dll.hash
     projectPath: Temp\Assembly-CSharp.dll.hash
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Cinemachine.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Cinemachine.dll.hash
+    projectPath: Temp\Cinemachine.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\com.unity.cinemachine.editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\com.unity.cinemachine.editor.dll.hash
+    projectPath: Temp\com.unity.cinemachine.editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Temp\CompilationLog.txt
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\CompilationLog.txt
     projectPath: Temp\CompilationLog.txt
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
+  - path: TreasureHunterParadox\Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.PlasticSCM.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.PlasticSCM.Editor.dll.hash
+    projectPath: Temp\Unity.PlasticSCM.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.Rider.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.TextMeshPro.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.Timeline.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityEditor.UI.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityEngine.UI.dll.hash
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-00ab9e2cc52349b43a101c88ef94ec1e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-00ab9e2cc52349b43a101c88ef94ec1e
+    projectPath: Temp\UnityTempFile-00ab9e2cc52349b43a101c88ef94ec1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-0a949545b5020244daa4aba0f129176b
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-0a949545b5020244daa4aba0f129176b
+    projectPath: Temp\UnityTempFile-0a949545b5020244daa4aba0f129176b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Temp\UnityTempFile-0f7bb43073826374691f5fd7d29b062a
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-0f7bb43073826374691f5fd7d29b062a
     projectPath: Temp\UnityTempFile-0f7bb43073826374691f5fd7d29b062a
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-11987c00e05cd56469234e3c76a541a4
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-11987c00e05cd56469234e3c76a541a4
+    projectPath: Temp\UnityTempFile-11987c00e05cd56469234e3c76a541a4
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-180e4da1d94510f48b71d6c38479cbbd
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-180e4da1d94510f48b71d6c38479cbbd
+    projectPath: Temp\UnityTempFile-180e4da1d94510f48b71d6c38479cbbd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-1b2b803a9a480b04f80192ccb9385d55
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-1b2b803a9a480b04f80192ccb9385d55
+    projectPath: Temp\UnityTempFile-1b2b803a9a480b04f80192ccb9385d55
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-207ee908c965b164e8a97c2183dd4252
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-207ee908c965b164e8a97c2183dd4252
+    projectPath: Temp\UnityTempFile-207ee908c965b164e8a97c2183dd4252
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-2a4b3c6f43aba5849877e794cf87ea2e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-2a4b3c6f43aba5849877e794cf87ea2e
+    projectPath: Temp\UnityTempFile-2a4b3c6f43aba5849877e794cf87ea2e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-2c72928eaeba7e8478205422a396c363
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-2c72928eaeba7e8478205422a396c363
+    projectPath: Temp\UnityTempFile-2c72928eaeba7e8478205422a396c363
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-3858f707ce69c6141a4e52dd14d5f44d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-3858f707ce69c6141a4e52dd14d5f44d
+    projectPath: Temp\UnityTempFile-3858f707ce69c6141a4e52dd14d5f44d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Temp\UnityTempFile-3b3c05c1acf000143b6c4b5e59ae58b0
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-3b3c05c1acf000143b6c4b5e59ae58b0
     projectPath: Temp\UnityTempFile-3b3c05c1acf000143b6c4b5e59ae58b0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-3edb2fd6a27c33246b0a1be1d630a2aa
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-3edb2fd6a27c33246b0a1be1d630a2aa
+    projectPath: Temp\UnityTempFile-3edb2fd6a27c33246b0a1be1d630a2aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-4599989a8e6bedd40bbb79fd8851c545
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-4599989a8e6bedd40bbb79fd8851c545
+    projectPath: Temp\UnityTempFile-4599989a8e6bedd40bbb79fd8851c545
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-48206134c92acbd4cb98952b5e662467
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-48206134c92acbd4cb98952b5e662467
+    projectPath: Temp\UnityTempFile-48206134c92acbd4cb98952b5e662467
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-4a66d69d2a831354490e80b292b05ad7
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-4a66d69d2a831354490e80b292b05ad7
+    projectPath: Temp\UnityTempFile-4a66d69d2a831354490e80b292b05ad7
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-4d5f172999054eb47b11309a87d09298
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-4d5f172999054eb47b11309a87d09298
+    projectPath: Temp\UnityTempFile-4d5f172999054eb47b11309a87d09298
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -518,11 +2134,257 @@ MonoBehaviour:
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-69d507f055a738f44816f6a62f8096b3
     projectPath: Temp\UnityTempFile-69d507f055a738f44816f6a62f8096b3
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-7109002730c12324892f293e4971dc0b
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-7109002730c12324892f293e4971dc0b
+    projectPath: Temp\UnityTempFile-7109002730c12324892f293e4971dc0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-73ecc5a9bf4d87046a48cc95cd7781cc
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-73ecc5a9bf4d87046a48cc95cd7781cc
+    projectPath: Temp\UnityTempFile-73ecc5a9bf4d87046a48cc95cd7781cc
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-78d5f334507b08c4c9d2d0cf7f5e76d0
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-78d5f334507b08c4c9d2d0cf7f5e76d0
+    projectPath: Temp\UnityTempFile-78d5f334507b08c4c9d2d0cf7f5e76d0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-807f922bbdd20a342b84b3d8431f1177
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-807f922bbdd20a342b84b3d8431f1177
+    projectPath: Temp\UnityTempFile-807f922bbdd20a342b84b3d8431f1177
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-81ac5f5b2db7c1241a3faa5fdbd9072b
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-81ac5f5b2db7c1241a3faa5fdbd9072b
+    projectPath: Temp\UnityTempFile-81ac5f5b2db7c1241a3faa5fdbd9072b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
   - path: TreasureHunterParadox\Temp\UnityTempFile-873e94076b194d14db0cf3dd30306aa6
     fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-873e94076b194d14db0cf3dd30306aa6
     projectPath: Temp\UnityTempFile-873e94076b194d14db0cf3dd30306aa6
     originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-87905222409f10a499a9d9036ac726ed
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-87905222409f10a499a9d9036ac726ed
+    projectPath: Temp\UnityTempFile-87905222409f10a499a9d9036ac726ed
+    originalPath: 
     indexStatus: 1
     workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-88336e195ec59d14cb9f93ec2f8955f7
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-88336e195ec59d14cb9f93ec2f8955f7
+    projectPath: Temp\UnityTempFile-88336e195ec59d14cb9f93ec2f8955f7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-8934445d93e2cca428d17f6df8a5ef39
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-8934445d93e2cca428d17f6df8a5ef39
+    projectPath: Temp\UnityTempFile-8934445d93e2cca428d17f6df8a5ef39
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-8bce36b37c81cfb4e8313331e7974bd2
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-8bce36b37c81cfb4e8313331e7974bd2
+    projectPath: Temp\UnityTempFile-8bce36b37c81cfb4e8313331e7974bd2
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-8d786fc142bcc5d42bc85d0897be50a6
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-8d786fc142bcc5d42bc85d0897be50a6
+    projectPath: Temp\UnityTempFile-8d786fc142bcc5d42bc85d0897be50a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-8dc2e7bbc2bb2d542a6710ba74bf1e7f
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-8dc2e7bbc2bb2d542a6710ba74bf1e7f
+    projectPath: Temp\UnityTempFile-8dc2e7bbc2bb2d542a6710ba74bf1e7f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-8edad29cb770d52488113806c2292032
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-8edad29cb770d52488113806c2292032
+    projectPath: Temp\UnityTempFile-8edad29cb770d52488113806c2292032
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-95783813556a37442bd5eee9ff4a9d6a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-95783813556a37442bd5eee9ff4a9d6a
+    projectPath: Temp\UnityTempFile-95783813556a37442bd5eee9ff4a9d6a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-97314b79dabfe004c8827ab14c8e5bbe
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-97314b79dabfe004c8827ab14c8e5bbe
+    projectPath: Temp\UnityTempFile-97314b79dabfe004c8827ab14c8e5bbe
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-9cb5a31a0ada79d4a8b8f862bd12e306
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-9cb5a31a0ada79d4a8b8f862bd12e306
+    projectPath: Temp\UnityTempFile-9cb5a31a0ada79d4a8b8f862bd12e306
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-9d6af97f74ae54a4b8045432f4489601
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-9d6af97f74ae54a4b8045432f4489601
+    projectPath: Temp\UnityTempFile-9d6af97f74ae54a4b8045432f4489601
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-9d72d2b7a2c483642b038f6502dc92b5
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-9d72d2b7a2c483642b038f6502dc92b5
+    projectPath: Temp\UnityTempFile-9d72d2b7a2c483642b038f6502dc92b5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-9d8595112643ef34499548dd9f27884c
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-9d8595112643ef34499548dd9f27884c
+    projectPath: Temp\UnityTempFile-9d8595112643ef34499548dd9f27884c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-9e8ed10dfad883b439f224b770377af6
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-9e8ed10dfad883b439f224b770377af6
+    projectPath: Temp\UnityTempFile-9e8ed10dfad883b439f224b770377af6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-a214eae69bb5fac4cadf2a2be37c581e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-a214eae69bb5fac4cadf2a2be37c581e
+    projectPath: Temp\UnityTempFile-a214eae69bb5fac4cadf2a2be37c581e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-a294e17ea9b13bc41a67bcaed82c348e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-a294e17ea9b13bc41a67bcaed82c348e
+    projectPath: Temp\UnityTempFile-a294e17ea9b13bc41a67bcaed82c348e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-a3f509da1d7351e40a67f392ed0ec8c9
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-a3f509da1d7351e40a67f392ed0ec8c9
+    projectPath: Temp\UnityTempFile-a3f509da1d7351e40a67f392ed0ec8c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-a7f9fde2633b71743a9a28c85eab8171
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-a7f9fde2633b71743a9a28c85eab8171
+    projectPath: Temp\UnityTempFile-a7f9fde2633b71743a9a28c85eab8171
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-aa9b578c9be0af54a8e2598bfea38b57
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-aa9b578c9be0af54a8e2598bfea38b57
+    projectPath: Temp\UnityTempFile-aa9b578c9be0af54a8e2598bfea38b57
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-b10b118e3f282394bba657fb2f79d797
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-b10b118e3f282394bba657fb2f79d797
+    projectPath: Temp\UnityTempFile-b10b118e3f282394bba657fb2f79d797
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-b19445c077a4d6e4cadecf8a9e953b8a
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-b19445c077a4d6e4cadecf8a9e953b8a
+    projectPath: Temp\UnityTempFile-b19445c077a4d6e4cadecf8a9e953b8a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-bf7d0b6a61b61fb42ae16e4715f9d4ab
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-bf7d0b6a61b61fb42ae16e4715f9d4ab
+    projectPath: Temp\UnityTempFile-bf7d0b6a61b61fb42ae16e4715f9d4ab
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-bf900ee26a867a74d83b1250151a6695
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-bf900ee26a867a74d83b1250151a6695
+    projectPath: Temp\UnityTempFile-bf900ee26a867a74d83b1250151a6695
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-c95a914f9d6e3d74ca153834fdb33625
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-c95a914f9d6e3d74ca153834fdb33625
+    projectPath: Temp\UnityTempFile-c95a914f9d6e3d74ca153834fdb33625
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-d37e5a1a8722dfe42a76f72bc4fa7c58
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-d37e5a1a8722dfe42a76f72bc4fa7c58
+    projectPath: Temp\UnityTempFile-d37e5a1a8722dfe42a76f72bc4fa7c58
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-d470ec786c8632b43acd09f3872ceedf
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-d470ec786c8632b43acd09f3872ceedf
+    projectPath: Temp\UnityTempFile-d470ec786c8632b43acd09f3872ceedf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-d5260e3e0984b06488207adac24b41f9
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-d5260e3e0984b06488207adac24b41f9
+    projectPath: Temp\UnityTempFile-d5260e3e0984b06488207adac24b41f9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-d8e64e48e654e85479d8fa9d382ba00e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-d8e64e48e654e85479d8fa9d382ba00e
+    projectPath: Temp\UnityTempFile-d8e64e48e654e85479d8fa9d382ba00e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-e0246907280778442b29cc50c6ae0b16
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-e0246907280778442b29cc50c6ae0b16
+    projectPath: Temp\UnityTempFile-e0246907280778442b29cc50c6ae0b16
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-e495123fbf534f1408364e0809362771
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-e495123fbf534f1408364e0809362771
+    projectPath: Temp\UnityTempFile-e495123fbf534f1408364e0809362771
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-f307a464a824d784386c7aaf40dcde0d
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-f307a464a824d784386c7aaf40dcde0d
+    projectPath: Temp\UnityTempFile-f307a464a824d784386c7aaf40dcde0d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: TreasureHunterParadox\Temp\UnityTempFile-f41c1c79e852a6b40980c64005fdbf41
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-f41c1c79e852a6b40980c64005fdbf41
+    projectPath: Temp\UnityTempFile-f41c1c79e852a6b40980c64005fdbf41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-f7fdff42dae82184ea50bfc0a70b14a6
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-f7fdff42dae82184ea50bfc0a70b14a6
+    projectPath: Temp\UnityTempFile-f7fdff42dae82184ea50bfc0a70b14a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-fb8d3dc7dd67fba458589463f1daff72
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-fb8d3dc7dd67fba458589463f1daff72
+    projectPath: Temp\UnityTempFile-fb8d3dc7dd67fba458589463f1daff72
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-fbbef33bc30104c41b92b03cf9c31dfb
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-fbbef33bc30104c41b92b03cf9c31dfb
+    projectPath: Temp\UnityTempFile-fbbef33bc30104c41b92b03cf9c31dfb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: TreasureHunterParadox\Temp\UnityTempFile-fbdf9edca73ea4343ab4611abad8e70e
+    fullPath: C:\Users\xenom\Documents\UNITYYYYYYYYYY\UnityGucProjectTwo\TreasureHunterParadoxRepo\TreasureHunterParadox\Temp\UnityTempFile-fbdf9edca73ea4343ab4611abad8e70e
+    projectPath: Temp\UnityTempFile-fbdf9edca73ea4343ab4611abad8e70e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
