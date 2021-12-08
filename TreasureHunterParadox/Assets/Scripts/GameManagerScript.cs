@@ -7,11 +7,8 @@ using UnityEngine.UI;
 
 public class GameManagerScript : MonoBehaviour
 {
-    //TODO
-    //Save Erika Timeline, conversations fel canvas, buttons shaklaha 3edel, function el maain menu button
-    //add minecraft zombie sound, zaghrootet shakira, Wilhelm Scream, 
-
     //Timelines
+    public PlayableDirector IntroSettingsTimeLine;
     public PlayableDirector IntroTimeLine;
     public PlayableDirector KickDoorTimeLine;
     public PlayableDirector PushButtonTimeLine;
@@ -21,31 +18,58 @@ public class GameManagerScript : MonoBehaviour
 
     //Cameras & Canvases
     public GameObject MainCamera;
+    public GameObject SettingsCanvas;
     public GameObject OptionOneCanvas;
     public GameObject OptionTwoCanvas;
+    public GameObject RedLight, GreenLight;
+
+    public Light TreasureLight;
 
     public Text ConversationText;
-    // Update is called once per frame
-    void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.P)) {
-            IntroTimeLine.Play();
+
+    bool LightingUp = true;
+
+    void Start() {
+        IntroSettingsTimeLine.Play();
+    }
+    void Update(){
+        if (LightingUp)
+        {
+            TreasureLight.intensity += 0.2f;
+            if (TreasureLight.intensity >= 3f) {
+                LightingUp = false;
+            }
+        }
+        else {
+            TreasureLight.intensity -= 0.2f;
+            if (TreasureLight.intensity <= 0.2) {
+                LightingUp = true;
+            }
         }
     }
 
     public void GoToMainMenu() {
         SceneManager.LoadScene("Main Menu");
     }
+    public void StartIntroTimeLine() {
+        IntroSettingsTimeLine.Stop();
+        SettingsCanvas.SetActive(false);
+        IntroTimeLine.Play();
+
+    }
     public void StartKickDoorTimeLine() {
         IntroTimeLine.Stop();
         KickDoorTimeLine.Play();
         OptionOneCanvas.SetActive(false);
+        RedLight.SetActive(false);
+        GreenLight.SetActive(false);
     }
     public void StartPushButtonTimeLine() {
         IntroTimeLine.Stop();
         PushButtonTimeLine.Play();
         OptionOneCanvas.SetActive(false);
-
+        RedLight.SetActive(false);
+        GreenLight.SetActive(false);
     }
     public void StartPreChoiceTwoTimeLine()
     {
